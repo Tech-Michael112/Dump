@@ -1,1 +1,3 @@
-import dump_1
+import Xtract,os
+
+os.system('git pull')
